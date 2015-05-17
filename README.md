@@ -11,3 +11,5 @@ redis http restful api 's admin ui
 4）对队列进行删除、添加、冻结等
 
 5）使用python的web terminal对该库进行web code
+
+6）使用技术redis bottle
